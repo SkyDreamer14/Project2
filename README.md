@@ -31,6 +31,7 @@
     - Contains 20% of the total dataset (800 images)  
     - Used to evaluate model generalization and select the best model  
       ![image](https://github.com/user-attachments/assets/22188b1c-25e2-49ff-a83f-2599be46cd44)
+  - **You can get the file from this link** https://github.com/hellominjeong/Generated_Image_Classification.
 
   ### III. Baseline model
   - __Classification model__  
